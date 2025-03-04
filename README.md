@@ -20,7 +20,7 @@ No momento, estou usando: **HTML**, **JavaScript**, **PYTHON**,  **MySQL**, **Ja
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1)](https://github.com/anuraghazra/github-readme-stats)
-![Abreu GitHub stats](https://github-readme-stats.vercel.app/api?username=ByJoao1_icons=true&theme=radical)
+![Abreu GitHub stats](https://github-readme-stats.vercel.app/api?username=ByJoao1-_icons=true&theme=radical)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByJoao1/ByJoao1/output/github-contribution-grid-snake-dark.sve">
