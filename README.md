@@ -19,7 +19,7 @@ No momento, estou usando: **HTML**, **JavaScript**, **PYTHON**,  **MySQL**, **Ja
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabreu6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1)](https://github.com/anuraghazra/github-readme-stats)
 ![Abreu GitHub stats](https://github-readme-stats.vercel.app/api?username=Abreueshow_icons=true&theme=radical)
 
 <picture>
