@@ -23,9 +23,9 @@ No momento, estou usando: **HTML**, **JavaScript**, **PYTHON**,  **MySQL**, **Ja
 ![Abreu GitHub stats](https://github-readme-stats.vercel.app/api?username=Abreu&show_icons=true&theme=radical)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aabreu6/aabreu6/output/github-contribution-grid-snake-dark.sve">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aabreu6/aabreu6/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByJoao1/ByJoao1/output/github-contribution-grid-snake-dark.sve">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByJoao1/ByJoao1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByJoao1/ByJoao1/output/github-contribution-grid-snake.svg">
 
 
 <details align="left">
