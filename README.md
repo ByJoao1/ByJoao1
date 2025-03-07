@@ -4,7 +4,7 @@ Sou estudante de Tecnologia da Informação no **IFCE**. Tenho interesse princip
 Neste GitHub, compartilho alguns dos meus projetos e estudos, buscando sempre evoluir e colaborar com a comunidade. Meu foco é criar soluções eficientes e de qualidade, aplicando as melhores práticas da área de TI.
 
 
-No momento, estou usando: **HTML**, **JavaScript**, **PYTHON**,  **MySQL**, **Java**, **CSS** e **C++**.
+Tenho experiencia em:
 
 <div style="text-align: center;">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
