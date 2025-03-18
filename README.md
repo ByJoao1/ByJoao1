@@ -3,6 +3,9 @@
 🚀 Estudante de Ciência da Computação no IFCE, apaixonado por desenvolvimento de software e sempre explorando novas tecnologias para aprimorar minhas habilidades. Tenho grande interesse em web development, inteligência artificial e Engenharia de software. Estou sempre buscando me desafiar e aplicar meus conhecimentos em projetos reais.
 
 ## 🔧 Tecnologias & Ferramentas
+
+![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat-square&logo=terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=apple&logoColor=white)
 ![Dell](https://img.shields.io/badge/-Dell-007DB8?style=flat-square&logo=dell&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-6666FF?style=flat-square&logo=microsoft&logoColor=white)
