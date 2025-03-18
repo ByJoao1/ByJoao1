@@ -23,7 +23,7 @@
 
 🌍 Sempre buscando contribuir com projetos open-source e criar soluções inovadoras.
 
-📫 Me encontre no LinkedIn: [Seu LinkedIn Aqui](#) ou no meu site pessoal: [Seu Site Aqui](#) _(em construção)_
+📫 Me encontre no LinkedIn: [João Pedro Abreu da Costa](https://www.linkedin.com/in/jo%C3%A3o-pedro-abreu-da-costa-398616286) ou no meu site pessoal: [Seu Site Aqui](#) _(em construção)_
 
 ---
 
