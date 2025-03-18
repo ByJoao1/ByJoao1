@@ -37,7 +37,7 @@ Tenho experiencia em:
    - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
 </details>
 
-![Snake animation].(https://github.com/ByJoao1/ByJoao1/blob/output/github-contribution-grid-snake.svg).
+![Snake animation](https://raw.githubusercontent.com/ByJoao1/ByJoao1/output/github-contribution-grid-snake.svg)
 
 [![README](https://github-readme-stats.vercel.app/api/pin/?username=ByJoao1&repo=ByJoao1&theme=react)](https://github.com/ByJoao1/ByJoao1/ByJoao1)
 
