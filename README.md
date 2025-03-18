@@ -19,8 +19,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByJoao1&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=ByJoao1&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=radical)
+
+
 
 ## 📌 Sobre mim
 
@@ -37,3 +37,14 @@
 ---
 
 Seja bem-vindo ao meu perfil e fique à vontade para explorar meus repositórios! 🚀
+
+
+
+
+
+
+
+
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=radical)
