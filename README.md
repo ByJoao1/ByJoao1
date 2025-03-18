@@ -4,8 +4,6 @@
 
 ## 🔧 Tecnologias & Ferramentas
 
-![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat-square&logo=terminal&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Apple](https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=apple&logoColor=white)
 ![Dell](https://img.shields.io/badge/-Dell-007DB8?style=flat-square&logo=dell&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/-Microsoft-6666FF?style=flat-square&logo=microsoft&logoColor=white)
@@ -16,6 +14,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat-square&logo=terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 Minhas Estatísticas no GitHub
 
