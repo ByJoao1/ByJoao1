@@ -36,3 +36,9 @@ Tenho experiencia em:
    - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
    - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
 </details>
+
+[Snake Animation](https://github.com/ByJoao1/ByJoao1/blob/output/github-contribution-bridge-snake.svg)
+
+[README](https://github-readme-stats.vercel.app/api/pin/?username=ByJoao1&repo=ByJoao1&theme=react)
+[GitHub Profile](https://github.com/ByJoao1)
+
