@@ -39,5 +39,5 @@ Tenho experiencia em:
 
 ![Snake animation](https://raw.githubusercontent.com/ByJoao1/ByJoao1/output/github-contribution-grid-snake.svg)
 
-[![README](https://github-readme-stats.vercel.app/api/pin/?username=ByJoao1&repo=ByJoao1&theme=react)](https://github.com/ByJoao1/ByJoao1/ByJoao1)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ByJoao1&repo=ByJoao1&theme=react)](https://github.com/ByJoao1/ByJoao1/ByJoao1)
 
