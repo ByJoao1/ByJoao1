@@ -48,6 +48,5 @@ Seja bem-vindo ao meu perfil e fique à vontade para explorar meus repositórios
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=xcode)
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=material-dark)
 
