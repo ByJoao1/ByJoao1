@@ -46,6 +46,7 @@ Seja bem-vindo ao meu perfil e fique à vontade para explorar meus repositórios
 
 
 
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 
 
 
