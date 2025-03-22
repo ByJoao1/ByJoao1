@@ -47,6 +47,10 @@ Seja bem-vindo ao meu perfil e fique à vontade para explorar meus repositórios
 
 
 
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=matrix)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=ocean)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=dracula)
