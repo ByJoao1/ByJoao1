@@ -21,6 +21,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByJoao1&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1&layout=compact&theme=radical)
 
+## 📈 Minhas Estatísticas no GitHub
+
+(stats aqui)
+
+![GitHub Activity Graph](...)
+
+## 📚 Hobbies & Interesses
 
 ## 📚 Hobbies & Interesses
 Além de programação, adoro ler livros, jogar futsal e estudar novas línguas. Estou sempre buscando novas formas de expandir meus horizontes e me divertir enquanto aprendo!
