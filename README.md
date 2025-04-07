@@ -21,11 +21,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByJoao1&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1&layout=compact&theme=radical)
 
-## 📈 Minhas Estatísticas no GitHub
-
-(stats aqui)
-
-![GitHub Activity Graph](...)
 
 
 ## 📚 Hobbies & Interesses
