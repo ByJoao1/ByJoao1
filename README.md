@@ -21,9 +21,16 @@
 
 
 
-## 📚 Hobbies & Interesses
-Além de programação, adoro ler livros, jogar futsal e estudar novas línguas. Estou sempre buscando novas formas de expandir meus horizontes e me divertir enquanto aprendo!
+## 💼 Principais Projetos
 
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| **Sistema de Login** | Projeto Java com POO para gerenciamento de autenticação. | [🔗 Ver Projeto](https://github.com/ByJoao1/SISTEMA-DE-LOGIN) |
+| **Calculadora Básica** | Calculadora aritmética em Java com GUI. | [🔗 Ver Projeto](https://github.com/ByJoao1/CALCULADORA-BASICA) |
+| **Jogo da Velha** | Implementação do clássico jogo em Java. | [🔗 Ver Projeto](https://github.com/ByJoao1/JOGO-DA-VELHA) |
+| **Case Prime** | Mini e-commerce para venda de capinhas de celular. | [🔗 Ver Projeto](https://github.com/ByJoao1/CASE-PRIME) |
+
+---
 
 ## 🚀 Sobre Mim
 
