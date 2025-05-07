@@ -1,6 +1,8 @@
 # 👋 Hello, I'm João Pedro!
 
-🚀 Estudante de Ciência da Computação no IFCE, apaixonado por desenvolvimento de software e sempre explorando novas tecnologias para aprimorar minhas habilidades. Tenho grande interesse em web development, inteligência artificial e Engenharia de software. Estou sempre buscando me desafiar e aplicar meus conhecimentos em projetos reais.
+🚀 🚀 Estudante de Ciência da Computação no IFCE, apaixonado por desenvolvimento de software e em constante busca por novos desafios tecnológicos. Meu foco está em Web Development, Inteligência Artificial e Engenharia de Software. Estou sempre explorando novas ferramentas, frameworks e práticas para aprimorar minhas habilidades e contribuir com soluções inovadoras em projetos reais.
+
+
 
 ## 🔧 Tecnologias & Ferramentas
 
