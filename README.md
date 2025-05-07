@@ -26,11 +26,20 @@
 ## 📚 Hobbies & Interesses
 Além de programação, adoro ler livros, jogar futsal e estudar novas línguas. Estou sempre buscando novas formas de expandir meus horizontes e me divertir enquanto aprendo!
 
-## 📌 Sobre mim
 
-💡 Atualmente aprendendo **Java** e aprofundando meus conhecimentos em **desenvolvimento web**.
+## 🚀 Sobre Mim
 
+Sou um desenvolvedor em formação que busca **dominar os fundamentos e construir soluções reais**.  
+Tenho interesse especial em:
 
+- 🌐 Desenvolvimento Web (Front-end & Back-end)
+- 🧠 Inteligência Artificial & Machine Learning
+- 🧱 Engenharia de Software & Arquitetura de Sistemas
+- ⚙️ Estrutura de Dados e Algoritmos
+
+Atualmente focado em projetos com **Java** e aprofundando meus conhecimentos em **POO**, **estruturas de dados**, e **design de sistemas**.
+
+---
 
 🌍 Sempre buscando contribuir com projetos open-source e criar soluções inovadoras.
 
@@ -47,7 +56,7 @@ Seja bem-vindo ao meu perfil e fique à vontade para explorar meus repositórios
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=xcode)
- Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=xcode)
+
 
 > “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay  
 > *Obrigado por visitar meu perfil. Fique à vontade para explorar meus repositórios! 🚀*
