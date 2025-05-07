@@ -19,18 +19,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByJoao1&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1&layout=compact&theme=radical)
 
-
-
 ## 💼 Principais Projetos
 
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| **Portfolio Pessoal** | Projeto Java com POO para gerenciamento de autenticação. | [🔗 Ver Projeto](https://byjoao1.github.io/Portfolio_Pessoal/) |
-| **Calculadora Básica** | Calculadora aritmética em Java com GUI. | [🔗 Ver Projeto](https://github.com/ByJoao1/CALCULADORA-BASICA) |
-| **Jogo da Velha** | Implementação do clássico jogo em Java. | [🔗 Ver Projeto](https://github.com/ByJoao1/JOGO-DA-VELHA) |
-| **Case Prime** | Mini e-commerce para venda de capinhas de celular. | [🔗 Ver Projeto](https://github.com/ByJoao1/CASE-PRIME) |
+| Projeto               | Descrição                                                                                                              | Link                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Portfolio Pessoal** | Projeto em Java com POO para gerenciamento de um portfólio online. Exibe habilidades, projetos e informações pessoais. | [🔗 Ver Projeto](https://byjoao1.github.io/Portfolio_Pessoal/) |
+| **PacMan**            | Implementação do clássico jogo PacMan, desenvolvido em Java com uma interface gráfica interativa.                      | [🔗 Ver Projeto](https://byjoao1.github.io/PacMan/)            |
+| **Ping Pong**         | Jogo do clássico Ping Pong implementado em Java, com controles e lógica para dois jogadores.                           | [🔗 Ver Projeto](https://byjoao1.github.io/PingPong/)          |
 
----
+
 
 ## 🚀 Sobre Mim
 
