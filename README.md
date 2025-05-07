@@ -25,7 +25,7 @@
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| **Sistema de Login** | Projeto Java com POO para gerenciamento de autenticação. | [🔗 Ver Projeto](https://github.com/ByJoao1/SISTEMA-DE-LOGIN) |
+| **Portfolio Pessoal** | Projeto Java com POO para gerenciamento de autenticação. | [🔗 Ver Projeto](https://byjoao1.github.io/Portfolio_Pessoal/) |
 | **Calculadora Básica** | Calculadora aritmética em Java com GUI. | [🔗 Ver Projeto](https://github.com/ByJoao1/CALCULADORA-BASICA) |
 | **Jogo da Velha** | Implementação do clássico jogo em Java. | [🔗 Ver Projeto](https://github.com/ByJoao1/JOGO-DA-VELHA) |
 | **Case Prime** | Mini e-commerce para venda de capinhas de celular. | [🔗 Ver Projeto](https://github.com/ByJoao1/CASE-PRIME) |
