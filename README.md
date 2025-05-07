@@ -23,9 +23,9 @@
 
 | Projeto               | Descrição                                                                                                              | Link                                                           |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **Portfolio Pessoal** | Projeto em Java com POO para gerenciamento de um portfólio online. Exibe habilidades, projetos e informações pessoais. | [🔗 Veja ](https://byjoao1.github.io/Portfolio_Pessoal/) |
-| **PacMan**            | Implementação do clássico jogo PacMan, desenvolvido em Java com uma interface gráfica interativa.                      | [🔗 Veja ](https://byjoao1.github.io/PacMan/)            |
-| **Ping Pong**         | Jogo do clássico Ping Pong implementado em Java, com controles e lógica para dois jogadores.                           | [🔗 Veja ](https://byjoao1.github.io/PingPong/)          |
+| **Portfolio Pessoal** | Projeto em Java com POO para gerenciamento de um portfólio online. Exibe habilidades, projetos e informações pessoais. | [🔗Veja ](https://byjoao1.github.io/Portfolio_Pessoal/) |
+| **PacMan**            | Implementação do clássico jogo PacMan, desenvolvido em Java com uma interface gráfica interativa.                      | [🔗Veja ](https://byjoao1.github.io/PacMan/)            |
+| **Ping Pong**         | Jogo do clássico Ping Pong implementado em Java, com controles e lógica para dois jogadores.                           | [🔗Veja ](https://byjoao1.github.io/PingPong/)          |
 
 
 
