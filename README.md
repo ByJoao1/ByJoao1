@@ -53,11 +53,6 @@ Atualmente focado em projetos com **Java** e aprofundando meus conhecimentos em 
 
 ---
 
-Seja bem-vindo ao meu perfil e fique à vontade para explorar meus repositórios! 🚀
-
-
-
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=xcode)
 
