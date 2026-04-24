@@ -1,6 +1,6 @@
  # 👋 Hello, I'm João Pedro!
 
-🚀 Estudante de Análise e Desenvolvimento de Sistemas, formado no ensino médio técnico em Informática pelo IFCE. Apaixonado por desenvolvimento de software e em constante busca por novos desafios tecnológicos. Tenho foco em Web Development, Inteligência Artificial e Engenharia de Software, sempre explorando novas ferramentas, frameworks e boas práticas para aprimorar minhas habilidades. Busco aplicar meus conhecimentos em projetos reais, contribuindo com soluções inovadoras e evoluindo continuamente como desenvolvedor.
+🚀 Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza, formado no ensino médio técnico em Informática pelo IFCE. Apaixonado por desenvolvimento de software e em constante busca por novos desafios tecnológicos. Tenho foco em Web Development, Inteligência Artificial e Engenharia de Software, sempre explorando novas ferramentas, frameworks e boas práticas para aprimorar minhas habilidades. Busco aplicar meus conhecimentos em projetos reais, contribuindo com soluções inovadoras e evoluindo continuamente como desenvolvedor.
 
 
 
