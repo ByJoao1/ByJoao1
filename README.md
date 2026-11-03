@@ -106,20 +106,7 @@ Desenvolvimento de um jogo de Ping Pong para dois jogadores, utilizando Java e l
 
 [🔗 Acessar projeto](https://byjoao1.github.io/PingPong/)
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ByJoao1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByJoao1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ByJoao1&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ## 🎯 Atualmente focado | Currently Learning
 
