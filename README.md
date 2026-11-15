@@ -109,21 +109,7 @@ A personal portfolio project developed to present my background, technical skill
 
 [🔗 View Project](https://byjoao1.github.io/Portfolio_Pessoal/)
 
-### 03. Pac-Man
 
-**Technologies:** Java · Programming Logic
-
-An implementation of the classic Pac-Man game, exploring programming logic, character movement, game mechanics, and graphical interfaces.
-
-[🔗 View Project](https://byjoao1.github.io/PacMan/)
-
-### 04. Ping Pong
-
-**Technologies:** Java · Game Development
-
-A two-player Ping Pong game developed to practice programming logic, interaction, and game mechanics.
-
-[🔗 View Project](https://byjoao1.github.io/PingPong/)
 
 ---
 
