@@ -101,13 +101,6 @@ Contribution to an inventory management system designed for supermarkets and oth
 
 **Key achievement:** Improved the CSV import process to handle more than 40,000 products and 44,000 barcodes efficiently.
 
-### 02. Personal Portfolio
-
-**Technologies:** Java · Object-Oriented Programming
-
-A personal portfolio project developed to present my background, technical skills, and development projects.
-
-[🔗 View Project](https://byjoao1.github.io/Portfolio_Pessoal/)
 
 
 
