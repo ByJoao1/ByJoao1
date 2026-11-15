@@ -8,7 +8,7 @@
   <a href="https://github.com/ByJoao1">
     <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=36D9FF"/>
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-abreu-da-costa-398616286">
+  <a href="https://www.linkedin.com/in/joao-pedro-56153b44b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=36D9FF"/>
   </a>
   <img src="https://img.shields.io/badge/Developer-Junior-0D1117?style=for-the-badge&logo=codersrank&logoColor=36D9FF"/>
