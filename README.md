@@ -162,7 +162,7 @@ I'm always open to connecting with developers, exchanging knowledge, collaborati
 Whether it's Software Engineering, Artificial Intelligence, or innovative ideas, I'm always interested in learning something new.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-abreu-da-costa-398616286">
+  <a href="https://www.linkedin.com/in/joao-pedro-56153b44b">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joao.costa@aluno.ifce.edu.br">
